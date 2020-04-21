@@ -8,4 +8,5 @@ function setLight() {
     document.querySelector().setAttribute("data-theme", "light");
     document.querySelector("#light").style.display = null;
     document.querySelector("#dark").style.display = "block";
+    
 }
