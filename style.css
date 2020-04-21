@@ -7,4 +7,5 @@ html[data-theme="dark"] {
 
 body {
     background-color: var(--bg-color);
+    transition: all .3s;
 }
